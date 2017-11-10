@@ -1,0 +1,14 @@
+git+https://github.com/jed-frey/get_files.git#egg=get_files
+
+jupyter 
+notebook
+nbconvert
+py
+
+asammdf
+numpy
+scipy
+
+elasticsearch
+elasticsearch-dsl
+redis
